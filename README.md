@@ -37,7 +37,7 @@ Tüm yollar. Saatler. Çanta. Sıradaki iş. Her şeyi gösteriyor. Ve her şeyi
 
 | | |
 |---|---|
-| Building | [BudVia / Belvia](https://github.com/CemalSakin/belvia) — on-device travel companion |
+| Building | [BudVia](https://github.com/CemalSakin/belvia) — on-device travel companion |
 | Live | [cemalsakin.github.io/belvia](https://cemalsakin.github.io/belvia/) |
 | Stack | TypeScript, Expo, PWA, local-first |
 | From | Ankara |
