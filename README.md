@@ -1,99 +1,80 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1e3a5f&height=190&section=header&text=Tahsin%20Sakin&fontSize=46&fontColor=f0e68c&animation=fadeIn&fontAlignY=34&desc=I%20build%20the%20thing.%20Then%20I%20delete%20the%20rest.&descAlignY=62&descSize=15" alt="Tahsin Sakin" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1e3a5f&height=180&section=header&text=Tahsin%20Sakin&fontSize=44&fontColor=f0e68c&animation=fadeIn&fontAlignY=35&desc=Information%20Systems%20Engineer%20%C2%B7%20Ankara&descAlignY=62&descSize=16" alt="Tahsin Sakin" />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tahsinsakin"><img src="https://img.shields.io/badge/LinkedIn-Tahsin%20Sakin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://tahsinsakin.github.io/belvia/"><img src="https://img.shields.io/badge/BudVia-open%20it-f0e68c?style=for-the-badge&labelColor=1e3a5f" alt="BudVia" /></a>
-  <a href="https://github.com/tahsinsakin/belvia"><img src="https://img.shields.io/badge/source-on%20the%20table-06b6d4?style=for-the-badge&labelColor=1e3a5f" alt="Source" /></a>
+  <a href="https://tahsinsakin.github.io/belvia/"><img src="https://img.shields.io/badge/BudVia-live-f0e68c?style=for-the-badge&labelColor=1e3a5f" alt="BudVia" /></a>
+  <a href="https://github.com/tahsinsakin/belvia"><img src="https://img.shields.io/badge/source-tahsinsakin%2Fbelvia-06b6d4?style=for-the-badge&labelColor=1e3a5f" alt="Source" /></a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/ISE-Ankara%20Bilim-06b6d4?style=flat-square&labelColor=0c1c14" alt="ISE" />
-  <img src="https://img.shields.io/badge/Ankara-still%20here-f59e0b?style=flat-square&labelColor=0c1c14" alt="Ankara" />
-  <img src="https://img.shields.io/badge/no%20account-on%20purpose-22c55e?style=flat-square&labelColor=0c1c14" alt="no account" />
+  <img src="https://img.shields.io/badge/Ankara%20Bilim%20University-ISE-06b6d4?style=flat-square&labelColor=0c1c14" alt="ISE" />
+  <img src="https://img.shields.io/badge/Ankara-TR-f59e0b?style=flat-square&labelColor=0c1c14" alt="Ankara" />
+  <img src="https://img.shields.io/badge/local--first-no%20account%20%C2%B7%20no%20server-22c55e?style=flat-square&labelColor=0c1c14" alt="local-first" />
 </p>
 
-## Selam
+## Profile
 
-Information Systems Engineer. Ankara.
+Information Systems Engineer. Ankara Bilim University.
 
-Sistemin nasıl kurulduğunu da görürüm, nereden çatladığını da. Okul onu öğretti. Kafa onu sevdi. Fazlalık duran her şeyi keserim. Hesap istemeyen işe hesap koymam. Sunucu istemeyen işi buluta taşımam. Karmaşık duran şeyi karmaşık bırakmam.
+I pay attention to how systems are built and where they break. If a problem does not need an account, I do not add one. If it does not need a server, I do not introduce a server. Complexity that is not doing work gets removed.
 
-Şu an masada duran şey **BudVia**. Ucuz tatilin dağıttığı beş uygulamayı tek plana çevirdim. Kaynak açık. Plan telefonda. Ben de buradayım.
+The product I am shipping is **BudVia**: an on-device itinerary for trips booked across several cheap-ticket apps. Source is public. The plan stays on the phone.
 
-Kısa versiyon: biletleri sen al. Hatırlamayı ben tutarım.
+[LinkedIn](https://www.linkedin.com/in/tahsinsakin)
 
 ---
 
-## BudVia — asıl iş
+## BudVia
 
-Tatili ucuza kuruyorsun. Güzel. Sonra evin dağılıyor.
+Cheap travel is cheap because it is split.
 
-Uçak Wizz’de. Otobüs FlixBus’ta. Oda Airbnb’de ya da Booking’de. Şehir içi başka yerde. Akşam masası başka yerde. Her teyit ayrı kutuda. Her PNR ayrı mailde. Bir haftayı beş uygulamaya bölüyorsun. Havalimanına çıkmadan önce o beş parçayı tekrar bir trip haline getirmeye çalışıyorsun.
+The flight is on Wizz. The coach is on FlixBus. The room is on Airbnb or Booking. City transport is another app. Dinner is another app. Each confirmation lands in a different inbox. You spend a week assembling a trip out of five purchases, then spend the night before departure assembling those five purchases back into one trip.
 
-Asıl yorulan yer bilet almak değil. Biletleri hatırlamak.
+Buying the ticket is not the hard part. Remembering the ticket is.
 
-BudVia o dağınıklığı tek ekrana alıyor.
+BudVia is the second job. It does not sell seats, rooms, or routes. It is not a booking site and it is not a replacement for Wizz or FlixBus. It holds the itinerary you already paid for, and a tap opens the same app you used to buy the ticket.
 
-Satmıyor. Rezervasyon sitesi değil. Yeni bir Wizz değil. Zaten ödediğin şeyleri bir araya getiriyor. Tıkla: bileti aldığın uygulama açılıyor. Wizz Wizz olarak kalıyor. FlixBus FlixBus olarak kalıyor. BudVia onların üstüne çıkmıyor. Aralarındaki boşluğu kapatıyor.
+What sits in front of you:
 
-Karşında trip duruyor. Tüm trip.
+- Where it starts
+- When it starts
+- How early you leave
+- When you need to be there
+- The route
+- What is in the bag
+- What is next
 
-- Nerede başlayacak
-- Ne zaman başlıyor
-- Ne kadar erken çıkmalısın
-- Ne zaman orada olmalısın
-- Hangi yol
-- Çantada ne var
-- Sıradaki iş ne
-
-Hesap yok. Sunucu yok. Takip yok. Mail istemiyor. “Üye ol” yok. Plan bu telefonun üzerinde duruyor. Silersen biter.
-
-Bunu bu kadar sade yapmak için yazdım. Çünkü tatil zaten yeterince parçalı.
+No account. No server. No analytics. Clear the trip and it is gone.
 
 <p align="center">
-  <a href="https://tahsinsakin.github.io/belvia/"><img src="https://img.shields.io/badge/Safari%20%C2%B7%20a%C3%A7%20%C2%B7%20Ana%20Ekrana%20Ekle-f0e68c?style=for-the-badge&labelColor=1e3a5f" alt="Open BudVia" /></a>
+  <a href="https://tahsinsakin.github.io/belvia/"><img src="https://img.shields.io/badge/Open-tahsinsakin.github.io%2Fbelvia-f0e68c?style=for-the-badge&labelColor=1e3a5f" alt="Open BudVia" /></a>
+  <a href="https://github.com/tahsinsakin/belvia"><img src="https://img.shields.io/badge/Source-GitHub-06b6d4?style=for-the-badge&labelColor=1e3a5f" alt="Source" /></a>
 </p>
 
-| Ekran | Orada ne var |
+| Screen | Purpose |
 |---|---|
-| **Trip** | Uçuş kartı. Sıradaki hamle. Bugün ne oluyor. |
-| **Schedule** | Tarih + saat. “Sabah bir şey vardı” yok. |
-| **Places** | Pin. Yol. Harita zaten telefonda. |
-| **Bag** | Ne koydun. Ne unuttun. |
-| **Tickets** | Wizz, FlixBus, Airbnb, Booking, Bubi. Tık. O uygulama. |
+| Trip | Flight card, next action, today |
+| Schedule | Dated reminders, not times without dates |
+| Places | Pins and directions in the system maps app |
+| Bag | What you packed |
+| Tickets | Wizz, FlixBus, Airbnb, Booking, MOL Bubi — tap opens that app |
 
-```mermaid
-flowchart LR
-  A[Wizz / FlixBus / Airbnb / Booking] -->|zaten aldın| B[BudVia]
-  B --> C[saat]
-  B --> D[yol]
-  B --> E[çanta]
-  B -->|tık| A
-```
-
-Üç adım:
-
-1. [tahsinsakin.github.io/belvia](https://tahsinsakin.github.io/belvia/) — Safari
-2. Paylaş → Ana Ekrana Ekle
-3. Örnek tripi yükle ya da kendininkini yaz
-
-Kaynak: [tahsinsakin/belvia](https://github.com/tahsinsakin/belvia)  
-App Store metni orada duruyor. Bugün PWA yeter.
+Open in Safari → Share → **Add to Home Screen**. No sign-in.
 
 ---
 
-## Masada ne var
+## Current
 
 | | |
 |---|---|
-| Ürün | [BudVia](https://tahsinsakin.github.io/belvia/) |
-| Kod | [github.com/tahsinsakin/belvia](https://github.com/tahsinsakin/belvia) |
-| Okul | Ankara Bilim Üniversitesi — Information Systems Engineering |
-| Şehir | Ankara |
-| Stack | TypeScript · Expo · React Native · PWA · local-first |
-| Kural | Sunucu yoksa sunucu yok |
+| Product | [BudVia](https://tahsinsakin.github.io/belvia/) |
+| Source | [tahsinsakin/belvia](https://github.com/tahsinsakin/belvia) |
+| Education | Ankara Bilim University — Information Systems Engineering |
+| Location | Ankara |
+| Stack | TypeScript, Expo, React Native, PWA, local-first |
+| License | MIT |
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,html,css,react,nodejs,git,github,figma" alt="stack" />
@@ -106,9 +87,7 @@ App Store metni orada duruyor. Bugün PWA yeter.
 
 ---
 
-## Yazışma
-
-Ciddi konu LinkedIn’de. Şaka da orada durabilir. Bakarız.
+## Contact
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tahsinsakin"><img src="https://img.shields.io/badge/linkedin.com%2Fin%2Ftahsinsakin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
