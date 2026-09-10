@@ -29,26 +29,26 @@ Sonra trip duruyor karşında.
 Tüm yollar. Saatler. Çanta. Sıradaki iş. Her şeyi gösteriyor. Ve her şeyi çok basit yapıyor.
 
 <p align="center">
-  <a href="https://cemalsakin.github.io/belvia/"><img src="https://img.shields.io/badge/open%20BudVia-cemalsakin.github.io-f0e68c?style=for-the-badge&labelColor=1e3a5f" alt="Open BudVia" /></a>
-  <a href="https://github.com/CemalSakin/belvia"><img src="https://img.shields.io/badge/source-CemalSakin%2Fbelvia-06b6d4?style=for-the-badge&labelColor=1e3a5f" alt="Source" /></a>
+  <a href="https://tahsinsakin.github.io/belvia/"><img src="https://img.shields.io/badge/open%20BudVia-tahsinsakin.github.io-f0e68c?style=for-the-badge&labelColor=1e3a5f" alt="Open BudVia" /></a>
+  <a href="https://github.com/tahsinsakin/belvia"><img src="https://img.shields.io/badge/source-tahsinsakin%2Fbelvia-06b6d4?style=for-the-badge&labelColor=1e3a5f" alt="Source" /></a>
 </p>
 
 ## Şu an
 
 | | |
 |---|---|
-| Building | [BudVia](https://github.com/CemalSakin/belvia) — on-device travel companion |
-| Live | [cemalsakin.github.io/belvia](https://cemalsakin.github.io/belvia/) |
+| Building | [BudVia](https://github.com/tahsinsakin/belvia) — on-device travel companion |
+| Live | [tahsinsakin.github.io/belvia](https://tahsinsakin.github.io/belvia/) |
 | Stack | TypeScript, Expo, PWA, local-first |
 | From | Ankara |
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=CemalSakin&show_icons=true&theme=radical&hide_border=true&bg_color=0c1c14&title_color=f0e68c&icon_color=06b6d4&text_color=e5e7eb" alt="stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CemalSakin&layout=compact&theme=radical&hide_border=true&bg_color=0c1c14&title_color=f0e68c&text_color=e5e7eb" alt="langs" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=tahsinsakin&show_icons=true&theme=radical&hide_border=true&bg_color=0c1c14&title_color=f0e68c&icon_color=06b6d4&text_color=e5e7eb" alt="stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahsinsakin&layout=compact&theme=radical&hide_border=true&bg_color=0c1c14&title_color=f0e68c&text_color=e5e7eb" alt="langs" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CemalSakin&theme=radical&hide_border=true&background=0c1c14&ring=06b6d4&fire=f59e0b&currStreakLabel=f0e68c" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tahsinsakin&theme=radical&hide_border=true&background=0c1c14&ring=06b6d4&fire=f59e0b&currStreakLabel=f0e68c" alt="streak" />
 </p>
 
 <p align="center">
