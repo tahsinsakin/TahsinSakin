@@ -1,7 +1,7 @@
 # Tahsin Sakin
 
 Information Systems Engineer · Ankara  
-[LinkedIn](https://www.linkedin.com/in/tahsinsakin) · [BudVia](https://tahsinsakin.github.io/belvia/) · [source](https://github.com/tahsinsakin/belvia)
+[LinkedIn](https://www.linkedin.com/in/tahsin-sakin-390961199) · [BudVia](https://tahsinsakin.github.io/belvia/) · [source](https://github.com/tahsinsakin/belvia)
 
 I design and ship small systems. I start from the constraint, not from the stack. If the work can stay on the device, it stays on the device. If a service is not earning its keep, it does not ship.
 
@@ -62,4 +62,4 @@ Training is split across software and the systems that software sits on. That is
 
 ## Contact
 
-Work correspondence: [linkedin.com/in/tahsinsakin](https://www.linkedin.com/in/tahsinsakin)
+Work correspondence: [linkedin.com/in/tahsin-sakin-390961199](https://www.linkedin.com/in/tahsin-sakin-390961199)
