@@ -1,9 +1,9 @@
 > **© 2026 Tahsin Sakin — TELİF HAKKI / COPYRIGHT. Tüm hakları saklıdır. All rights reserved.**
 >
-> Bu profil, metinler ve bağlı ürünler **özel mülkiyettir**. Açık kaynak değildir. MIT yoktur.
+> Bu profil, metinler ve tüm ui commitleri dahil olmak üzere, bağlı ürünler **özel mülkiyettir**. Açık kaynak değildir. MIT yoktur.
 > İzinsiz kopyalama, çoğaltma, dağıtma, tersine mühendislik, türetilmiş eser, ticari kullanım ve yeniden yayın **yasaktır**.
 > Koruma: **5846 sayılı Fikir ve Sanat Eserleri Kanunu**, haksız rekabet hükümleri ve Bern Sözleşmesi.
-> İhlalde ihtiyati tedbir, tazminat ve kanunun izin verdiği cezai şikayet yollarına başvurulur.
+> İhlalde ihtiyati tedbir, tazminat ve kanunun izin verdiği cezai şikayet ve dava yollarına başvurulur. Herhangi bir kod benzerliği görülürse, fikir mülkiyet hakları kapsamında gereken aksiyonlar alınacaktır. Aktif olarak deep research ve benzeri yöntemlerle internet üzerinden kazı yapılmaktadır. 
 > İzin: tahcem17@gmail.com · Tam metin: [`LICENSE`](LICENSE)
 
 # Tahsin Sakin
