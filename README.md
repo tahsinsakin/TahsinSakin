@@ -1,3 +1,11 @@
+> **© 2026 Tahsin Sakin — TELİF HAKKI / COPYRIGHT. Tüm hakları saklıdır. All rights reserved.**
+>
+> Bu profil, metinler ve bağlı ürünler **özel mülkiyettir**. Açık kaynak değildir. MIT yoktur.
+> İzinsiz kopyalama, çoğaltma, dağıtma, tersine mühendislik, türetilmiş eser, ticari kullanım ve yeniden yayın **yasaktır**.
+> Koruma: **5846 sayılı Fikir ve Sanat Eserleri Kanunu**, haksız rekabet hükümleri ve Bern Sözleşmesi.
+> İhlalde ihtiyati tedbir, tazminat ve kanunun izin verdiği cezai şikayet yollarına başvurulur.
+> İzin: tahcem17@gmail.com · Tam metin: [`LICENSE`](LICENSE)
+
 # Tahsin Sakin
 
 Information Systems Engineer · Ankara  
@@ -22,7 +30,7 @@ It does not sell tickets. It does not replace the booking apps. A tap opens the 
 | Repo | [tahsinsakin/belvia](https://github.com/tahsinsakin/belvia) |
 | Form | PWA now, Expo / React Native in `mobile/` |
 | Data | `localStorage` key `belvia-v2` |
-| License | MIT |
+| License | Proprietary — all rights reserved |
 
 **Decisions that matter**
 
